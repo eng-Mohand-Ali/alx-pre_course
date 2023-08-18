@@ -1,1 +1,1 @@
-This is the 0x01-git directory
+Starting to code today, so cool
