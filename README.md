@@ -1,1 +1,1 @@
-Welcome to My ALX Pre Course Repo
+Starting to code today, so cool
